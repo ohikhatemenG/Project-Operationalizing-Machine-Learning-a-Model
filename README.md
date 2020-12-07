@@ -1,2 +1,2 @@
 # Project-Operationalizing-Machine-Learning-a-Model
-# I will continue to work with the Bank Marketing dataset. I will use Azure to configure a cloud-based Machine Learning Production Model, deploy it, and consume it
+I will continue to work with the Bank Marketing dataset. I will use Azure to configure a cloud-based Machine Learning Production Model, deploy it, and consume it
