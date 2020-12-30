@@ -38,10 +38,14 @@ Once the model is deployed successfully I took the next steps to engaged in Enab
 
 # Consume Model Endpoints (Swagger Documentation)
 
-Swagger is a tool help build, document and consume RESTful web services in Azure. Once a model is deployed, I was enable to get swagger.json file from the endpoint which I downloaded and placed it in a folder containing swagger file serve.py and swagger.sh. I wanted to create local web server because of that run serve.py and swagger.sh on a terminal.
+Swagger is a tool help build, document and consume RESTful web services in Azure. Once the model is deployed, I was enable to get swagger.json file from the endpoint which I downloaded and placed it in a folder containing swagger file serve.py and swagger.sh. I wanted to create local web server because of that I run serve.py and swagger.sh on a terminal.And replaced the swagger url with a local host url to achieved the below outcome.
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/Swagger%202.png"/>
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/Swagger%201.png"/>
 
 # Consume Model Endpoints
 
 After the consume model endpoints of swagger documentation result above, I modified the endpoint.py script of both the scoring url and key to match the key for web service and url that was generated after deployment and run to test and accomplished the result.
+<img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/Consume%20Endpoints%202.png"/>
+
+# Bench Marking Endpoints
+The benchmark is used to create an acceptable performance, HTTP API is used to find the average response time for a deployed model. I used the apache benchmark to evaluate the performance of the model for ten runs
