@@ -31,5 +31,6 @@ Since I have the best model ready for deployment, I clicked on deploy and create
 
 # Enable Logging in the Application Insight
 
-Once the model is deployed successfuuly I took the next steps to engaged in Enable Application Insights through modified of the logs script that enable application insights=True and add the experiment name of the deploy model, and execute the logs script. After the completed run and checked the endpoint section and found that the Application Insight Enabled is equal True
+Once the model is deployed successfully I took the next steps to engaged in Enable Application Insights through modified of the logs script that enable application insights=True and add the experiment name of the deploy model, and execute the logs script. After the completed run and checked the endpoint section and found that the Application Insight Enabled is equal fail request, server response time, server request and availability.
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/Enable%20logging%203.png"/>
+<img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/Enable%20logging%202.png"/>
