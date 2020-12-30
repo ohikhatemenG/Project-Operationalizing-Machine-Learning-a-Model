@@ -19,4 +19,5 @@ The first stage of the Machine Learning Operations is Authentication, and they a
 # Auto ML Model
 
 Navigated to the AutoML section on the workspace and create a new Automated ML run. I created and configured a new computer cluster with Standard DS12_V2, and selected
-1 as the number of the minimum nodes and 5 as the number of the maximum nodes. And I selected and uploaded the exist Bank-marketing Dataset.Also I selected y as the target column for the model.I configured the AutoML run using the newly created cluster named bank-cluster and successfully run the AutoML experiement named Bankexperiement. Once the AutoML run was completed.The best model I got was voting ensemble model with accuracy 91.62% 
+1 as the number of the minimum nodes and 5 as the number of the maximum nodes. And I selected and uploaded the exist Bank-marketing Dataset.Also I selected y as the target column for the model.I configured the AutoML run using the newly created cluster named bank-cluster and successfully run the AutoML experiement named Bankexperiement. Once the AutoML run was completed.The best model I got was voting ensemble model with accuracy 91.68%.
+<img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/AutoML.png"/>
