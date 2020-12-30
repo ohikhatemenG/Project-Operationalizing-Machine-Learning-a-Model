@@ -36,8 +36,12 @@ Once the model is deployed successfully I took the next steps to engaged in Enab
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/Enable%20logging%202.png"/>
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/Enable%20logging%204.png">
 
-# Consume Model Endpoints(Swagger Documentation)
+# Consume Model Endpoints (Swagger Documentation)
 
 Swagger is a tool help build, document and consume RESTful web services in Azure. Once a model is deployed, I was enable to get swagger.json file from the endpoint which I downloaded and placed it in a folder containing swagger file serve.py and swagger.sh. I wanted to create local web server because of that run serve.py and swagger.sh on a terminal.
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/Swagger%202.png"/>
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/Swagger%201.png"/>
+
+# Consume Model Endpoints
+
+After the consume model endpoints of swagger documentation result above, I modified the endpoint.py script of both the scoring url and key to match the key for web service and url that was generated after deployment and run to test and accomplished the result.
