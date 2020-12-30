@@ -58,3 +58,4 @@ The best way to automated worflow is through pipeline and published pipeline all
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/create%20%26%20publish%20pipeline%202.png"/>
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/create%20%26%20publish%20pipeline%203.png"/>
 <img scr="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/create%20%26%20publish%20pipeline%205.png"/>
+<img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/create%20%26%20publish%20pipeline%2010.png"/>
