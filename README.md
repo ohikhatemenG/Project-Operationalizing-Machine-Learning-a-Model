@@ -26,4 +26,10 @@ Navigated to the AutoML section on the workspace and create a new Automated ML r
 
 # Deploy the Best Model
 
-Since I have the best model ready for deployment, I clicked on deploy and created deploy a model name bank-mk-deploy, and selected Azure Container Instances (ACI) and enable 'Authentication' and run. And after the completed of deployment is successfull, I verified the model in order to know the "deploy status" was shown as Healthy
+Since I have the best model ready for deployment, I clicked on deploy and created deploy a model name bank-mk-deploy, and selected Azure Container Instances (ACI) and enable 'Authentication' and run. And after the completed of deployment is successfull, I verified the deployment of the model in order to know the "deploy status" was shown as Healthy, which will create an endpoint
+<img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/Deploy%20healthy.png"/>
+
+# Enable Logging in the Application Insight
+
+Once the model is deployed successfuuly I engaged in Enable Application Insights through modified of the logs script that enable application insights=True and 
+add the experiment name of the deploy model, and execute the logs script.Once I did and checked the endpoint section  and found that the Application Insight Enabled is equal True
