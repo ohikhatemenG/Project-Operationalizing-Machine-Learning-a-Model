@@ -38,4 +38,5 @@ Once the model is deployed successfully I took the next steps to engaged in Enab
 
 # Consume Model Endpoints
 
-Swagger is a tool help build, document and consume RESTful web services in Azure. Once a model is deployed, I was enable to get swagger.json file from the endpoint which I downloaded and placed it in a folder containing swagger file serve.py and swagger.sh. I wanted to create local web server because of that run serve.py and swagger.sh on a terminal
+Swagger is a tool help build, document and consume RESTful web services in Azure. Once a model is deployed, I was enable to get swagger.json file from the endpoint which I downloaded and placed it in a folder containing swagger file serve.py and swagger.sh. I wanted to create local web server because of that run serve.py and swagger.sh on a terminal.
+<img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/Swagger%202.png"/>
