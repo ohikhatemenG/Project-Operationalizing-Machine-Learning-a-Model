@@ -48,4 +48,10 @@ After the consume model endpoints of swagger documentation result above, I modif
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/Consume%20Endpoints%202.png"/>
 
 # Bench Marking Endpoints
+
 The benchmark is used to create an acceptable performance, HTTP API is used to find the average response time for a deployed model. I used the apache benchmark to evaluate the performance of the model for ten runs
+<img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/Benchmark%202.png"/>
+
+# Createing and Publishing Pipeline
+
+The best way to automated worflow is through pipeline and published pipeline allow external services to interact with them so that they can do work more efficiently. In this project I applied Azure Python Software Development Kit (SDK) and these are the outputs below.
