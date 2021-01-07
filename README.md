@@ -65,6 +65,7 @@ The best way to automated workflow is through pipeline and published pipeline al
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/create%20%26%20publish%20pipeline%203.png"/>
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/create%20%26%20publish%20pipeline%208.png"/>
 <img scr="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/create%20%26%20publish%20pipeline%205.png"/>
+<img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/create%20%26%20publish%20pipeline%205.png"/>
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/create%20%26%20publish%20pipeline%2010.png"/>
 
 # Screencast Record
