@@ -3,7 +3,7 @@
 I will continue to work with the Bank Marketing dataset. I will use Azure to configure a cloud-based Machine Learning Production Model, deploy it, and consume it, and will create, publish, and interact with a pipeline.
 # Architectural Diagram
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/Architectual%20Diagram.png"/>
-I started with Authentication and then ran Auto ML Model or experiment to get the best model and after that I Deploy the Best Model. The next action I took was to apply the Enable Logging(Enable Application Insight) to review important information about the service when consuming the Consume Model Endpoints. The next steps were to Create and Publish, and interact with a pipeline, finally establishing a Documentation for the people to read and learn.
+I started with Authentication after registered the dataset and then ran Auto ML Model or experiment to get the best model and after that I Deploy the Best Model to the Web service through Azure Container Instance(ACI). The next action I took was to apply the Enable Logging(Enable Application Insight) to review important information about the service when consuming the model at Endpoint section. The next steps were to Create and Publish, and interact with a pipeline, finally establishing a Documentation for the people to read and learn.
 
 # Key Steps
 
