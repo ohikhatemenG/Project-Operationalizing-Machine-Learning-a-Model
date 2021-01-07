@@ -16,9 +16,9 @@ The first stage of the Machine Learning Operations is Authentication, and they a
 
 (3). Interactive based: It is use for local  deployment and experimentation
 
-# Registered Dataset
+# Registered Datasets
 
-I navigated to the left of the virtual Machine (VM) and clicked on Dataset section and selected Registered dataset, clicked create and selected web file for store my dataset
+I navigated to the left of the Virtual Machine (VM) and I clicked on Dataset section and selected Registered datasets, clicked create and selected web file for storage of dataset
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/Dataset1.png"/>
 
 # Auto ML Model
@@ -60,6 +60,7 @@ The benchmark is used to create an acceptable performance, HTTP API is used to f
 
 The best way to automated workflow is through pipeline and published pipeline allow external services to interact with them so that they can do work more efficiently. In this project I applied Azure Python Software Development Kit (SDK) and these are the outputs below.
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/create%20%26%20publish%20pipeline%202.png"/>
+<img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/create%20%26%20publish%20pipeline%2011.png"/>
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/create%20%26%20publish%20pipeline%203.png"/>
 <img scr="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/create%20%26%20publish%20pipeline%205.png"/>
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/create%20%26%20publish%20pipeline%2010.png"/>
