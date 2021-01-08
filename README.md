@@ -49,16 +49,19 @@ Run Enable Application Insights on python terminal and the above results were ac
 Swagger is a tool to help build, document and consume RESTful web services in Azure. Once the model is deployed, I was able to get a swagger.json file from the endpoint which I downloaded and placed it in a folder containing swagger file serve.py and swagger.sh. I wanted to create a local web server because of that I run serve.py and swagger.sh on a terminal.And replaced the swagger url with a local host url to achieve the below outcome.
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/Swagger%202.png"/>
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/Swagger%201.png"/>
+The results shown above were obtained from consume model endpoints of swagger documentation
 
 # Consume Model Endpoints
 
 After the consume model endpoints of swagger documentation result above, I modified the endpoint.py of both the scoring url and key to match the key for web service and url that was generated after deployment and run to test and accomplish the result.
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/Consume%20Endpoints%202.png"/>
+This show that the consume model endpoints was successful
 
 # Bench Marking Endpoints
 
 The benchmark is used to create an acceptable performance, HTTP API is used to find the average response time for a deployed model. I used the apache benchmark to evaluate the performance of the model for ten runs
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/Benchmark%202.png"/>
+The bench marking endpionts result
 
 # Createing and Publishing Pipeline
 
@@ -73,6 +76,7 @@ The best way to automated workflow is through pipeline and published pipeline al
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/pipeline1.png"/>
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/create%20%26%20publish%20pipeline%205.png"/>
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/create%20%26%20publish%20pipeline%2010.png"/>
+
 
 # Screencast Record
 
