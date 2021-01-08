@@ -34,6 +34,7 @@ Automl run shown completed
 
 Since I have the best model ready for deployment, I clicked on deploy and created a model named bank-mk-deploy, and selected Azure Container Instances (ACI) and enabled 'Authentication' and run. And after the completion of deployment is successful, I verified the deployment of the model in order to know the "deploy status" was shown as Healthy, which will create an endpoint
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/Deploy%20healthy.png"/>
+Deploy the best model and the deployment status shown Healthy means it's was successful
 
 # Enable Logging in the Application Insight
 
