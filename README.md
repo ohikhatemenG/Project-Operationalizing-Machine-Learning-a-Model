@@ -73,6 +73,7 @@ The best way to automated workflow is through pipeline and published pipeline al
 
 My project machine learning
 https://youtu.be/b8tRtjsArUQ
+https://youtu.be/OEzo_C8eiXE
 
 # Additional Information for Improvements
 
