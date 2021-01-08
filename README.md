@@ -78,12 +78,13 @@ The schedule run
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/create%20%26%20publish%20pipeline%203.png"/>
 The Bankmarketing dataset with the Automl module both in ML Studio and Jupyter notebook
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/create%20%26%20publish%20pipeline%208.png"/>
-The use Runtails widgets on step runs
+The use Runtails widgets on step run
 <img scr="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/create%20%26%20publish%20pipeline%205.png"/>
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/pipeline1.png"/>
-The a Rest endpoints and status both in ML Studio and Jupyter notebook
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/create%20%26%20publish%20pipeline%205.png"/>
+The a Rest endpoints and status both in ML Studio and Jupyter notebook
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/create%20%26%20publish%20pipeline%2010.png"/>
+The Pipeline run id
 
 
 # Screencast Record
