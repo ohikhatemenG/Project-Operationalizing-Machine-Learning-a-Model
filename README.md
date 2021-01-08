@@ -67,7 +67,9 @@ The bench marking endpionts result
 
 The best way to automated workflow is through pipeline and published pipeline allow external services to interact with them so that they can do work more efficiently. In this project I applied Azure Python Software Development Kit (SDK) and these are the outputs below.
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/create%20%26%20publish%20pipeline%202.png"/>
+The pipeline was created
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/create%20%26%20publish%20pipeline%206.png"/>
+The Runtails widgits on the jupyter notebook
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/create%20%26%20publish%20pipeline%2011.png"/>
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/create%20%26%20publish%20pipeline%2012.png"/>
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/create%20%26%20publish%20pipeline%203.png"/>
@@ -81,7 +83,7 @@ The best way to automated workflow is through pipeline and published pipeline al
 # Screencast Record
 
 My project machine learning
-https://youtu.be/b8tRtjsArUQ
+https://youtu.be/b8tRtjsArUQ ,
 https://youtu.be/OEzo_C8eiXE
 
 # Additional Information for Improvements
