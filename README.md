@@ -42,6 +42,7 @@ Once the model is deployed successfully I took the next steps to engage in Enabl
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/Enable%20logging%203.png"/>
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/Enable%20logging%202.png"/>
 <img src="https://github.com/ohikhatemenG/Project-Operationalizing-Machine-Learning-a-Model/blob/main/Enable%20logging%204.png">
+Run Enable Application Insights on python terminal and the above results were accomplished
 
 # Consume Model Endpoints (Swagger Documentation)
 
