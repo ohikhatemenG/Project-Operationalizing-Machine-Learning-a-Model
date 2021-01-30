@@ -96,5 +96,5 @@ https://youtu.be/OEzo_C8eiXE
 # Additional Information for Improvements
 
 (1) The nature of the dataset is imbalance and application of feature engineering may improve the accuracy
-(2) Addition of more data will definitly improve the accuracy
+( 2) Addition of more data will definitly improve the accuracy
 (3) Considering the test of batch data in a scheduled and observe the performance
